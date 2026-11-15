@@ -1,0 +1,6 @@
+# Environment (RPC URL, port) — local only, never commit
+.env
+# Node modules
+node_modules/
+# Test artefacts
+/tmp/
