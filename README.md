@@ -5,8 +5,8 @@ Agent name: **LogiGuard** · Event ends **21/11/2026**.
 
 ## Live demo
 
-- Demo: https://spreading-cds-prairie-send.trycloudflare.com/ (try the vitalik.eth DAI → Uniswap Permit2 example, flagged RISKY)
-- Agent endpoint (POST /guard): https://spreading-cds-prairie-send.trycloudflare.com/guard
+- Demo: https://excluded-future-join-shell.trycloudflare.com/ (try the vitalik.eth DAI → Uniswap Permit2 example, flagged RISKY)
+- Agent endpoint (POST /guard): https://excluded-future-join-shell.trycloudflare.com/guard
 - Demo thread on X: https://x.com/0xlogi_/status/2121869977703895071
 - Wildcard submission: filed 15/11/2026, status PENDING (manual review; results at the November closing event)
 
