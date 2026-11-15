@@ -3,6 +3,13 @@
 Read-only guard for zkVerify **Agent Games Season 01, Wildcard track**.
 Agent name: **LogiGuard** · Event ends **21/11/2026**.
 
+## Live demo
+
+- Demo: https://transcription-acknowledge-pubmed-semester.trycloudflare.com/ (try the vitalik.eth DAI → Uniswap Permit2 example, flagged RISKY)
+- Agent endpoint (POST /guard): https://transcription-acknowledge-pubmed-semester.trycloudflare.com/guard
+- Demo thread on X: https://x.com/0xlogi_/status/2121869977703895071
+- Wildcard submission: filed 15/11/2026, status PENDING (manual review; results at the November closing event)
+
 ## The problem
 
 Most wallet drains start with a single bad approval. A user signs an
